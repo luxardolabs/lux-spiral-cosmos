@@ -1,0 +1,230 @@
+{
+  "presets": {
+    "original_settings": {
+      "description": "Exact replica of the original script settings - DEFAULT",
+      "video": {
+        "width": 3840,
+        "height": 2160,
+        "num_frames": 240,
+        "fps": 24
+      },
+      "hdr": {
+        "max_nits": 4000,
+        "min_nits": 0.01,
+        "hdr_boost": 2.0,
+        "cosmic_core_boost": 5.0
+      },
+      "mathematical": {
+        "n": 2000,
+        "r_denominator": 125,
+        "time_speed": 0.01,
+        "scale_factor": 700
+      },
+      "spiral_pulse": {
+        "size_min": 0.98,
+        "size_max": 1.02,
+        "pulse_speed": 2.0
+      },
+      "colors": {
+        "speed": 2,
+        "saturation": 1.5,
+        "red_base": 0.3,
+        "red_variation": 0.7,
+        "green_base": 0.2,
+        "green_variation": 0.8,
+        "blue_base": 0.5,
+        "blue_variation": 0.8
+      }
+    },
+    "cosmic_gentle": {
+      "description": "Gentle cosmic spirals with soft pulsing",
+      "video": {
+        "width": 3840,
+        "height": 2160,
+        "num_frames": 240,
+        "fps": 24
+      },
+      "hdr": {
+        "max_nits": 1000,
+        "min_nits": 0.01,
+        "hdr_boost": 1.5,
+        "cosmic_core_boost": 3.0
+      },
+      "mathematical": {
+        "n": 1000,
+        "r_denominator": 235,
+        "time_speed": 0.02,
+        "scale_factor": 600
+      },
+      "spiral_pulse": {
+        "size_min": 0.95,
+        "size_max": 1.05,
+        "pulse_speed": 1.0
+      },
+      "colors": {
+        "speed": 1,
+        "saturation": 1.2,
+        "red_base": 0.2,
+        "red_variation": 0.5,
+        "green_base": 0.3,
+        "green_variation": 0.6,
+        "blue_base": 0.6,
+        "blue_variation": 0.7
+      }
+    },
+    
+    "cosmic_intense": {
+      "description": "Intense HDR cosmic experience with dramatic pulses",
+      "video": {
+        "width": 3840,
+        "height": 2160,
+        "num_frames": 240,
+        "fps": 24
+      },
+      "hdr": {
+        "max_nits": 4000,
+        "min_nits": 0.01,
+        "hdr_boost": 2.5,
+        "cosmic_core_boost": 6.0
+      },
+      "mathematical": {
+        "n": 2000,
+        "r_denominator": 125,
+        "time_speed": 0.01,
+        "scale_factor": 700
+      },
+      "spiral_pulse": {
+        "size_min": 0.7,
+        "size_max": 1.8,
+        "pulse_speed": 3.0
+      },
+      "colors": {
+        "speed": 3,
+        "saturation": 2.0,
+        "red_base": 0.4,
+        "red_variation": 0.8,
+        "green_base": 0.1,
+        "green_variation": 0.9,
+        "blue_base": 0.3,
+        "blue_variation": 0.9
+      }
+    },
+    
+    "tiny_details": {
+      "description": "High resolution with tiny intricate spirals",
+      "video": {
+        "width": 3840,
+        "height": 2160,
+        "num_frames": 120,
+        "fps": 30
+      },
+      "hdr": {
+        "max_nits": 2000,
+        "min_nits": 0.01,
+        "hdr_boost": 1.8,
+        "cosmic_core_boost": 4.0
+      },
+      "mathematical": {
+        "n": 3000,
+        "r_denominator": 400,
+        "time_speed": 0.005,
+        "scale_factor": 800
+      },
+      "spiral_pulse": {
+        "size_min": 0.98,
+        "size_max": 1.02,
+        "pulse_speed": 0.5
+      },
+      "colors": {
+        "speed": 1,
+        "saturation": 1.5,
+        "red_base": 0.1,
+        "red_variation": 0.4,
+        "green_base": 0.2,
+        "green_variation": 0.5,
+        "blue_base": 0.8,
+        "blue_variation": 0.6
+      }
+    },
+    
+    "giant_spirals": {
+      "description": "Massive spirals with slow dramatic evolution",
+      "video": {
+        "width": 3840,
+        "height": 2160,
+        "num_frames": 300,
+        "fps": 24
+      },
+      "hdr": {
+        "max_nits": 3000,
+        "min_nits": 0.01,
+        "hdr_boost": 2.0,
+        "cosmic_core_boost": 5.0
+      },
+      "mathematical": {
+        "n": 1500,
+        "r_denominator": 80,
+        "time_speed": 0.008,
+        "scale_factor": 500
+      },
+      "spiral_pulse": {
+        "size_min": 1.5,
+        "size_max": 3.0,
+        "pulse_speed": 0.8
+      },
+      "colors": {
+        "speed": 0.5,
+        "saturation": 1.8,
+        "red_base": 0.6,
+        "red_variation": 0.7,
+        "green_base": 0.4,
+        "green_variation": 0.6,
+        "blue_base": 0.2,
+        "blue_variation": 0.5
+      }
+    },
+    
+    "rainbow_chaos": {
+      "description": "Fast color cycling with chaotic spiral dynamics",
+      "video": {
+        "width": 3840,
+        "height": 2160,
+        "num_frames": 180,
+        "fps": 30
+      },
+      "hdr": {
+        "max_nits": 2500,
+        "min_nits": 0.01,
+        "hdr_boost": 2.2,
+        "cosmic_core_boost": 4.5
+      },
+      "mathematical": {
+        "n": 1800,
+        "r_denominator": 50,
+        "time_speed": 0.05,
+        "scale_factor": 650
+      },
+      "spiral_pulse": {
+        "size_min": 0.5,
+        "size_max": 2.5,
+        "pulse_speed": 5.0
+      },
+      "colors": {
+        "speed": 8,
+        "saturation": 2.5,
+        "red_base": 0.5,
+        "red_variation": 1.0,
+        "green_base": 0.5,
+        "green_variation": 1.0,
+        "blue_base": 0.5,
+        "blue_variation": 1.0
+      }
+    }
+  },
+  
+  "output": {
+    "create_timestamped_folder": true,
+    "use_tiff_16bit": true,
+    "compression": "lzw"
+  }
+}
