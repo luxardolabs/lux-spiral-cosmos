@@ -11,6 +11,16 @@ Generate stunning 4K HDR cosmic visualizations using mathematical spiral dynamic
 
 ---
 
+## 🎬 Demo
+
+**Sample Animation (HDR):**
+
+[![HDR Animation Demo](https://labs.lux4rd0.com/wp-content/uploads/2025/06/frame_original_settings.jpg)](https://labs.lux4rd0.com/wp-content/uploads/2025/06/hdr_animation_original_settings_20250602_191023.mp4)
+
+*Click image to view HDR animation (works best on HDR-capable displays)*
+
+---
+
 ## 🌌 Overview
 
 Lux Spiral Cosmos transforms mathematical equations into mesmerizing cosmic animations through:
@@ -19,6 +29,7 @@ Lux Spiral Cosmos transforms mathematical equations into mesmerizing cosmic anim
 - **HDR Excellence**: True 16-bit Rec. 2020 color gamut with PQ tone mapping for 4000+ nit displays
 - **JIT Performance**: Numba-optimized computation achieving 6M+ iterations/second (22x speedup)
 - **Professional Output**: 4K resolution with FFmpeg-ready HDR video encoding
+
 
 ## ✨ Features
 
